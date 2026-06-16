@@ -8,12 +8,17 @@ An open-source cyber forensics tool written in Python to track and analyze the i
 - **AI-Powered Investigative Agent:** Features an automated Cyber Threat Intelligence agent that synthesizes complex blockchain data into deep, journalistic security reports.
 
 ## 📦 Installation & Usage
+
 1. Clone the repository:
-   ```bash
-   git clone [https://github.com/YOUR_USERNAME/lazarus-chain-detective.git](https://github.com/YOUR_USERNAME/lazarus-chain-detective.git)
+```bash
+git clone [https://github.com/ErfunDr/lazarus-chain-detective.git](https://github.com/ErfunDr/lazarus-chain-detective.git)
 Install dependencies:
-   pip install pandas
+
+Bash
+pip install pandas
 Run the AI Detective:
-    python detective.py
+
+Bash
+python detective.py
 🔒 License
 MIT License. Created for educational and cyber-forensic research purposes.
