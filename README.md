@@ -13,12 +13,12 @@ An open-source cyber forensics tool written in Python to track and analyze the i
 ```bash
 git clone https://github.com/ErfunDr/lazarus-chain-detective.git
 ```
-```bash
 1.Install dependencies:
+```bash
 pip install pandas
 ```
-```bash
 2.Run the AI Detective:
+```bash
 python detective.py
 ```
 🔒 License
